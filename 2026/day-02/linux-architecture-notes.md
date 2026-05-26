@@ -3,10 +3,10 @@ Linux Architecture is defined in such way that how different components of the s
 
 ## The Main Components of Linux operating system
 
--Hardware 
--Kernel
--shell
--Application
+- Hardware 
+- Kernel
+- shell
+- Application
 
 # Harware
 
