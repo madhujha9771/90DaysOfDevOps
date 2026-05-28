@@ -5,6 +5,7 @@
 ![alt text](image.png)
 
 2.Create notes.txt with some content
+
 ![alt text](image-1.png)
 
 3.Create script.sh using vim with content
