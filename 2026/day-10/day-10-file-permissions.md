@@ -26,7 +26,7 @@
 ![alt text](image-5.png)
 
 
-# Understand Permissions
+# TASK 3: Understand Permissions
 
 1. Understand Permissions  r read=4 w write=2  e execute=1
 
